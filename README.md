@@ -9,6 +9,6 @@
     3.three
 ```
 
-[CV page repository](rustam-mr.github.io/cv_page_frontender/)
+[About](https://rustam-mr.github.io/cv_page_frontender/)
 
 ![image](https://placehold.co/300x350)
